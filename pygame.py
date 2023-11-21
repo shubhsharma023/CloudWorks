@@ -1,3 +1,5 @@
+ASSIGNMET-3 PYGAME
+
 import pygame
 import numpy as np
 import random
