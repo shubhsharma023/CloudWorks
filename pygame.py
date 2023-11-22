@@ -1,4 +1,4 @@
-ASSIGNMET-3 PYGAME
+# ASSIGNMET-3 PYGAME
 
 import pygame
 import numpy as np
